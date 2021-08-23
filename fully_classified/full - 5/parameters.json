@@ -1,0 +1,16 @@
+{
+    "caLow": 0.400929069519043, 
+    "windowSize": 512, 
+    "maxGapTime": 25, 
+    "majorStdMax": 10000, 
+    "gaborMaskHigh": 1603.7162780761719, 
+    "minSig": 8.01858139038086, 
+    "wholeSample": true, 
+    "gaborSize": 20, 
+    "syllableGap": 10, 
+    "ngabor": 8, 
+    "caHigh": 4.00929069519043, 
+    "overlap": 0.75, 
+    "wings": 3, 
+    "gaborMaskLow": 801.8581390380859
+}
