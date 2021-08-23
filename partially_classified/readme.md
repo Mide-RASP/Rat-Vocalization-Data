@@ -1,0 +1,1 @@
+Containing data which has been only partially classified.   This means that not every section of data in this directory (or its subdirectories) will have been classified, but for every section with at least one rat vocalization classified, that entire section will have been classified.
